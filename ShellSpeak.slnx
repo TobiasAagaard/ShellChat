@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ShellSpeak-Client/ShellSpeak-Client.csproj" />
+  <Project Path="ShellSpeak-Server/ShellSpeak-Server.csproj" />
+</Solution>
